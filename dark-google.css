@@ -4,8 +4,6 @@
 *    https://userstyles.org/styles/144028
 */
 
-@-moz-document regexp("https?://(www|encrypted|images|translate|accounts|books|photos).google.(com|([a-z]{2}))(.[a-z]{2})?/(?!mobile|flights|intl|alerts|finance|calendar|nexus|contacts|services|voice|business|maps|dashboard|settings|android|adsense|analytics|doodles|chrome|fonts|patents|translate_p|recaptcha).*")
-{
 /*** Main page ***/
   body
   {
@@ -6787,4 +6785,4 @@
   {
     color: #9a9a9a!important;
   }
-}
+
