@@ -1,0 +1,76 @@
+.page-header .panel.wrapper {
+	background-color: $top_bar_color !important;
+}
+body {
+	color: $primary_font_color !important;
+}
+a {
+	color: $primary_link_color !important;
+}
+a:hover {
+	color: $primary_link_hover_color !important;
+}
+.no-touch .product-image:hover {
+	border-color: $primary_link_hover_color !important
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 .product-name .h1,
+.block-title h2,
+.block-title h3,
+.block-title strong,
+.footer .block-title,
+.footer address {
+	color: $primary_heading_color !important;
+}
+.price-box .price {
+	color: $primary_price_color !important;
+}
+body,
+.wrapper,
+.skip-link {
+	background-color: $background_color !important;
+}
+.category-products {
+	background-color: $category_grid_background_color !important;
+}
+.product-view {
+	background-color: $product_view_background_color !important;
+}
+.block-content {
+	background-color: $block_content_background_color !important;
+}
+.navigation,
+.nav-sections-item-content {
+	background-color: $nav_background_color !important;
+}
+.nav-primary a {
+	color: $nav_link_color !important;
+}
+.nav-primary a:hover {
+	color: $nav_link_hover_color !important;
+}
+.nav-primary li.level0 ul {
+	background-color: $nav_dropdown_background_color !important;
+}
+.nav-primary li.level1 a {
+	color: $nav_dropdown_link_color !important;
+}
+.nav-primary li.level1 a:hover {
+	color: $nav_dropdown_link_hover_color !important;
+}
+.button,
+.cart-table .product-cart-actions .button,
+#co-shipping-method-form .buttons-set .button,
+.footer .button {
+	background-color: $button_background_color !important;
+}
+a.button {
+	color: $button_link_color !important;
+}
+a.button:hover {
+	color: $button_link_hover_color !important;
+}
